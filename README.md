@@ -11,7 +11,7 @@
 
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/alrick-rubio)
 <br><br>
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />](mailto:alrick.rubio@protonmail.com)
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />](mailto:alrick.rubio@proton.me)
 <br><br>
 
 <h3 align="left">Languages and Tools:</h3>
