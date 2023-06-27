@@ -1,8 +1,9 @@
 <h1 align="center">Hi there <img src="assets/WavingHand.png" width="30" height="30">, I'm Alrick Rubio</h1>
 
-<h3 align="center">Currently a student at Epitech.
-
-[<img align="center" src="https://epitech.eu/favicon.ico" width="35px">](https://www.epitech.eu)
+<h3 align="center">IT Developer - Student at EPITECH Bordeaux 
+    <a href="https://www.epitech.eu">
+        <img align="center" src="https://epitech.eu/favicon.ico" width="35px">
+    </a>
 </h3> 
 
 <p><img align="right" src="gif/animation_500_kxa883sd.gif"/></p>
