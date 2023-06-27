@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="gif/wave.gif" width="30" height="30">, I'm Alrick Rubio</h1>
+<h1 align="center">Hi there <img src="assets/WavingHand.png" width="30" height="30">, I'm Alrick Rubio</h1>
 
 <h3 align="center">Currently a student at Epitech.
 
